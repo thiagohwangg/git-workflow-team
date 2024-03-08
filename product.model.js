@@ -1,1 +1,4 @@
-console.log('product model, that okay')
+
+console.log('product model')
+console.log('fixed')
+
